@@ -38,6 +38,7 @@ main {
     height: 140px;
     width: 140px;
 }
+
 .blockItem:hover {
     background: rgb(196 181 181);
 }
